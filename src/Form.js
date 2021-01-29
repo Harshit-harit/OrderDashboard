@@ -52,7 +52,9 @@ import axios from 'axios';
                          
                          <br/>
                          <br/>
-                         <button type="submit" >Submit</button>
+                         <button type="submit" >Submit</button>&nbsp;
+                         <button type="reset" >Reset</button>
+                         
                     </form>
     
                 
